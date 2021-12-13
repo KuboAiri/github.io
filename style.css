@@ -1,0 +1,90 @@
+body {
+  background-color: rgb(41, 40, 39);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 15px;
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+  font-size: 20px;
+}
+ul {
+  list-style: none;
+}
+
+div {
+  padding: 0 30px;
+}
+
+.header__flex {
+  display: flex;
+  height: 50px;
+  align-items: center;
+}
+
+.header__flex nav {
+  margin-left: auto;
+}
+
+.header__flex ul {
+  display: flex;
+  
+}
+
+.header__flex ul li {
+  margin-left: 50px;
+  margin-top: 10px;
+  transition: all 0.5s;
+  text-decoration: none;
+  display: block;
+  line-height: 40px;
+}
+
+.header__flex ul li:hover {
+  background-color: rgb(85, 83, 72);
+
+}
+
+a:visited {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+
+.layer {
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+  
+}
+
+.layer-img {
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+  top: 300px;
+  left: 200px;
+}
+
+
+
+h2 {
+  position: relative;
+  margin: 0 auto;
+  text-align: left;
+  bottom: 100px;
+  left: 30px;
+  font-size: 15px;
+  color: white;
+}
+

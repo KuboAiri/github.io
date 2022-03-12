@@ -33,7 +33,6 @@ div {
 
 .header__flex ul {
   display: flex;
-  
 }
 
 .header__flex ul li {
@@ -47,7 +46,6 @@ div {
 
 .header__flex ul li:hover {
   background-color: rgb(85, 83, 72);
-
 }
 
 a:visited {
@@ -58,14 +56,10 @@ a {
   text-decoration: none;
 }
 
-
-
-
 .layer {
   position: relative;
   margin: 0 auto;
   text-align: center;
-  
 }
 
 .layer-img {
@@ -75,8 +69,6 @@ a {
   top: 300px;
   left: 200px;
 }
-
-
 
 h2 {
   position: relative;
